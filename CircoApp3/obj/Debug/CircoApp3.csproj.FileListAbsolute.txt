@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\CircoApp3\CircoApp3\bin\Debug\CircoApp3.exe.config
+C:\Users\Aluno\source\repos\CircoApp3\CircoApp3\bin\Debug\CircoApp3.exe
+C:\Users\Aluno\source\repos\CircoApp3\CircoApp3\bin\Debug\CircoApp3.pdb
+C:\Users\Aluno\source\repos\CircoApp3\CircoApp3\obj\Debug\CircoApp3.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\CircoApp3\CircoApp3\obj\Debug\CircoApp3.FrmPrincipal.resources
+C:\Users\Aluno\source\repos\CircoApp3\CircoApp3\obj\Debug\CircoApp3.Properties.Resources.resources
+C:\Users\Aluno\source\repos\CircoApp3\CircoApp3\obj\Debug\CircoApp3.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\CircoApp3\CircoApp3\obj\Debug\CircoApp3.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\CircoApp3\CircoApp3\obj\Debug\CircoApp3.exe
+C:\Users\Aluno\source\repos\CircoApp3\CircoApp3\obj\Debug\CircoApp3.pdb
+C:\Users\Aluno\source\repos\CircoApp3\CircoApp3\obj\Debug\CircoApp3.FrmBuscaCEP.resources
